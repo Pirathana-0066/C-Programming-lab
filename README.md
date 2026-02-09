@@ -11,3 +11,19 @@ including variables, loops, functions, arrays, and pointers.
 - Python
 - Java
 - JavaScript
+
+This repository contains **C programs** for practice.
+
+This is a *simple project* for beginners.
+
+~~This task is completed~~
+
+```
+git status
+```
+
+- [x] Task 1 Completed
+- [ ] Task 2 Pending
+- [ ] Task 3 Pending
+
+
